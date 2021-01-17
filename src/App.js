@@ -16,10 +16,9 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <span className="welcome">Welcome to FB.Classify!</span>
+          <span className="welcome">Welcome to FB.GenerateCloud!</span>
           <span className="desc">
-            Using machine learning algorithms to determine your personality
-            type!
+          Using FaceBook API and machine learning algorithms, we will produce a personalized word cloud for you based on your FaceBook activity!
           </span>
           <p className="space"></p>
           <div>
